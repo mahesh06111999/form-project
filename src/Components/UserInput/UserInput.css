@@ -1,0 +1,27 @@
+.form-design {
+  background-color: white;
+  border-radius: 1rem;
+  padding: 1rem 2rem;
+  margin: 2rem auto;
+  max-width: 40rem;
+}
+
+.form-design label {
+  display: block;
+  font-weight: bold;
+  font-size: medium;
+}
+
+.form-design input {
+  margin: 0.5rem auto;
+  padding: 0.2rem;
+  width: 100%;
+  display: block;
+  border: 0.1rem solid black;
+}
+
+.button {
+  padding: 0.5rem 1rem;
+  color: white;
+  background-color: #66347f;
+}
